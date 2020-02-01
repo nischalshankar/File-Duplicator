@@ -1,5 +1,8 @@
 # VS Code
 .vscode
 
+# Build file
+duplicator
+
 # Duplicate files created
 duplicate_*
